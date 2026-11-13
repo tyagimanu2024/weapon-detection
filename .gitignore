@@ -1,9 +1,1 @@
-venv/
-__pycache__/
-*.pyc
-uploads/
-trained_models/
-runs/
-*.log
-.idea/
-.vscode/
+.env 
